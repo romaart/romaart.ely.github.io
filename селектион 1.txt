@@ -1,0 +1,41 @@
+<section id="section1" class="our-courses parallax parallax_one" data-stellar-background-ratio="0.5" style="background-position: center bottom">
+    <div class="overlay"></div>
+    <div class="parallax_inner">
+    <div class="container">
+        <div class="row">
+        	<div class="text-center mb-50 head">
+            	<h2 style="color:#fff" class="mb-25">Тарифы и цены</h2>
+			</div>
+            <div class="col-sm-4" style="text-align:center; color:#fff; ">
+                <figure style="color:#ffc000">
+                	<h4>1000<i class="fa fa-rub" aria-hidden="true"></i></h4>
+                </figure>
+                <div class="info">
+                    <h6>"Тариф №1"</h6>
+                    <p>Описание тарифа №1</p>
+                </div>
+            </div>
+            
+            <div class="col-sm-4" style="text-align:center; color:#fff">
+                <figure style="color:#ffc000">
+                	<h4>2000<i class="fa fa-rub" aria-hidden="true"></i></h4>
+                </figure>
+                <div class="info">
+                    <h6>"Тариф №2"</h6>
+                    <p>Описание тарифа №2</p>
+                </div>
+            </div>
+            
+            <div class="col-sm-4" style="text-align:center; color:#fff">
+                <figure style="color:#ffc000">
+                	<h4>3000<i class="fa fa-rub" aria-hidden="true"></i></h4>
+                </figure>
+                <div class="info">
+                    <h6>"Тариф №3"</h6>
+                    <p>Описание тарифа №3.</p>
+                </div>
+            </div>
+        </div>
+       </div>
+    </div>
+</section>
